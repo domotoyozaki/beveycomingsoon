@@ -1,0 +1,61 @@
+/*font styling*/
+h1,
+h2,
+h3 {
+  font-family: "Comfortaa", cursive;
+  color: white;
+}
+
+html {
+  font-family: "DM Serif Display", serif;
+  background-image: linear-gradient(45deg, #94beff, #0a113e 50%);
+  background-repeat: no-repeat;
+  height: 100%;
+}
+
+/*header styling*/
+
+header img {
+  width: 100px;
+  position: absolute;
+  right: 25px;
+  top: 25px;
+}
+
+h1 {
+  font-size: 30px;
+  line-height: 140px;
+  margin: 0 0 0 25px;
+}
+
+/*main section styling*/
+
+h2 {
+  text-align: center;
+  font-size: 3.2rem;
+  word-spacing: 0.6rem;
+  padding: 20px;
+  margin-top: 0;
+}
+h3 {
+  font-size: 2.4rem;
+  text-align: center;
+}
+
+p {
+  font-family: "DM Serif Display", serif;
+  color: #ffffff;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  word-spacing: 3px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+div {
+  font-family: "DM Serif Display", serif;
+  color: #ffffff;
+  font-size: 1rem;
+  text-align: center;
+  padding-top: 20px;
+}
